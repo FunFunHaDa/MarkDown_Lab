@@ -65,16 +65,21 @@ _Hello World_
 
 * ### Images
 ```
-![2016 Turing Award Winners](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/1024px-Sir_Tim_Berners-Lee.jpg)
+[Internet]:https://t1.daumcdn.net/cfile/tistory/167E8D4A4FC3328009
+[linux]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/255px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg 
+![Father of the Korean Internet][Internet]
+![Developer who developed git][linux]
 ```
-![2016 Turing Award Winners](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/1024px-Sir_Tim_Berners-Lee.jpg)
+
+[Internet]:https://t1.daumcdn.net/cfile/tistory/167E8D4A4FC3328009
+[linux]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/255px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg 
+![Father of the Korean Internet][Internet]
+![Developer who developed git][linux]
 
 ```
-[linux]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/255px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg
-![Developer who developed git][linux]
+![2016 Turing Award Winners](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/1024px-Sir_Tim_Berners-Lee.jpg)
 ```
-[linux]:https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/255px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg
-![Developer who developed git][linux]
+![2016 Turing Award Winners](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sir_Tim_Berners-Lee.jpg/1024px-Sir_Tim_Berners-Lee.jpg)
 
 * ### Lists
 ```
