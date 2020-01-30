@@ -28,7 +28,6 @@
 >   >   >   > Hello World  
 Hello World <br> Hello World
 
-
 * ### Newline
 ```
 Hello World  <!--2개 공백-->
@@ -87,13 +86,13 @@ _Hello World_
     * Hello World
     * _Hello World_
         * [Hello World](https://d2.naver.com/helloworld)
-        * **Hello World**
+        - **Hello World**
 ```
 * Hello World
     * Hello World
     * _Hello World_
         * [Hello World](https://d2.naver.com/helloworld)
-        * **Hello World**
+        - **Hello World**
 
 ```
 1. Hello World
@@ -106,15 +105,25 @@ _Hello World_
 2. Hello World  
 
 * ## [Some features of GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (Github Markdown 특징)
+
     * ### Syntax highlighting
-    ```python
-    # ```python
+    <pre><code>  ```python
     print("Hello World")
-    # ```
     ```
+    ```javascript
+    function test() {
+    console.log("Hello World");
+    }
+    ```</code></pre>
 
     ```python
     print("Hello World")
+    ```
+
+     ```javascript
+    function test() {
+    console.log("Hello World");
+    }
     ```
 
     * ### Task Lists
@@ -159,4 +168,5 @@ _Hello World_
 * ### 참고
 https://code.visualstudio.com/docs/languages/markdown  
 https://www.markdowntutorial.com/  
-https://guides.github.com/features/mastering-markdown/
+https://guides.github.com/features/mastering-markdown/  
+https://help.github.com/en/github/writing-on-github
