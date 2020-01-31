@@ -52,15 +52,15 @@ _Hello World_
 
 * ### Links
 ```
-[Google](www.google.com)
-[Naver](www.naver.com)
-[Daum](www.daum.net)
-[stackoverflow](www.stackoverflow.com)
+[Google](https://www.google.com)
+[Naver](https://www.naver.com)
+[Daum](https://www.daum.net)
+[stackoverflow](https://www.stackoverflow.com)
 ```
-[Google](www.google.com)  
-[Naver](www.naver.com)  
-[Daum](www.daum.net)  
-[stackoverflow](www.stackoverflow.com)
+[Google](https://www.google.com)  
+[Naver](https://www.naver.com)  
+[Daum](https://www.daum.net)  
+[stackoverflow](https://www.stackoverflow.com)
 
 * ### Images
 ```
