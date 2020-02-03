@@ -93,13 +93,12 @@ _Hello World_
     * _Hello World_
         * [Hello World](https://d2.naver.com/helloworld)
         - **Hello World**
-
+        
 ```
 1. Hello World
 3. Hello World
 2. Hello World
 ```
-
 1. Hello World
 3. Hello World
 2. Hello World  
@@ -107,64 +106,63 @@ _Hello World_
 ## [Some features of GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (Github Markdown 특징)
 
 * ### Syntax highlighting
-    <pre><code>  ```python
-    print("Hello World")
-    ```
-    ```javascript
-    function test() {
-    console.log("Hello World");
-    }
-    ```</code></pre>
+<pre><code>  ```python
+print("Hello World")
+```
+```javascript
+function test() {
+console.log("Hello World");
+}
+```</code></pre>
 
-    ```python
-    print("Hello World")
-    ```
+```python
+print("Hello World")
+```
 
-     ```javascript
-    function test() {
-    console.log("Hello World");
-    }
-    ```
+```javascript
+function test() {
+console.log("Hello World");
+}
+```
 
 * ### Task Lists
-    ```
-    - [x] Hello World
-    - [ ] Hello World
-    - [x] Hello World
-    - [x] Hello World
-    ```
-    - [x] Hello World
-    - [ ] Hello World
-    - [x] Hello World
-    - [x] Hello World
+```
+- [x] Hello World
+- [ ] Hello World
+- [x] Hello World
+- [x] Hello World
+```
+- [x] Hello World
+- [ ] Hello World
+- [x] Hello World
+- [x] Hello World
 
 * ### Tables
-     ```
-     Hello World | Hello World
-     ----------- | ------------
-     Hello World | Hello World
-     Hello World | Hello World
-     ```
-     Hello World | Hello World
-     ----------- | ------------
-     Hello World | Hello World
-     Hello World | Hello World
+```
+Hello World | Hello World
+----------- | ------------
+Hello World | Hello World
+Hello World | Hello World
+```
+Hello World | Hello World
+----------- | ------------
+Hello World | Hello World
+Hello World | Hello World
 
 * ### Strikethrough
-     ```
-     ~~Hello World~~
-     ```
-     ~~Hello World~~  
+```
+~~Hello World~~
+```
+~~Hello World~~  
 
 * ### Emoji
-     ```
-     :grinning:	
-     :yum:
-     ```
-     :grinning:	
-     :yum:
+```
+:grinning:	
+:yum:
+```
+:grinning:	
+:yum:
  
-
 * ### 참고
 https://code.visualstudio.com/docs/languages/markdown  
 https://www.markdowntutorial.com/  
