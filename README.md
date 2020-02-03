@@ -104,9 +104,9 @@ _Hello World_
 3. Hello World
 2. Hello World  
 
-* ## [Some features of GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (Github Markdown 특징)
+## [Some features of GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown) (Github Markdown 특징)
 
-    * ### Syntax highlighting
+* ### Syntax highlighting
     <pre><code>  ```python
     print("Hello World")
     ```
@@ -126,7 +126,7 @@ _Hello World_
     }
     ```
 
-    * ### Task Lists
+* ### Task Lists
     ```
     - [x] Hello World
     - [ ] Hello World
@@ -138,7 +138,7 @@ _Hello World_
     - [x] Hello World
     - [x] Hello World
 
-     * ### Tables
+* ### Tables
      ```
      Hello World | Hello World
      ----------- | ------------
@@ -150,13 +150,13 @@ _Hello World_
      Hello World | Hello World
      Hello World | Hello World
 
-     * ### Strikethrough
+* ### Strikethrough
      ```
      ~~Hello World~~
      ```
      ~~Hello World~~  
 
-     * ### Emoji
+* ### Emoji
      ```
      :grinning:	
      :yum:
