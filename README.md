@@ -125,7 +125,7 @@ console.log("Hello World");
 }
 ```
 
-## Task Lists
+### Task Lists
 ```
 - [x] Hello World
 - [ ] Hello World
